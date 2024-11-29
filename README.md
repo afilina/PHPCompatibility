@@ -1,10 +1,9 @@
 PHP Compatibility Coding Standard for PHP CodeSniffer
 =====================================================
-[![Latest Stable Version](https://poser.pugx.org/phpcompatibility/php-compatibility/v/stable.png)](https://packagist.org/packages/phpcompatibility/php-compatibility)
+[![Latest Stable Version](https://img.shields.io/packagist/v/phpcompatibility/php-compatibility?label=stable)](https://packagist.org/packages/phpcompatibility/php-compatibility)
 [![Latest Unstable Version](https://img.shields.io/badge/unstable-dev--develop-e68718.svg?maxAge=2419200)](https://packagist.org/packages/phpcompatibility/php-compatibility#dev-develop)
 ![Awesome](https://img.shields.io/badge/awesome%3F-yes!-brightgreen.svg)
-[![License](https://poser.pugx.org/phpcompatibility/php-compatibility/license.png)](https://github.com/PHPCompatibility/PHPCompatibility/blob/master/LICENSE)
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=wimg&url=https://github.com/PHPCompatibility/PHPCompatibility&title=PHPCompatibility&language=&tags=github&category=software)
+[![License](https://img.shields.io/github/license/PHPCompatibility/PHPCompatibility)](https://github.com/PHPCompatibility/PHPCompatibility/blob/master/LICENSE)
 
 [![CS Build Status](https://github.com/PHPCompatibility/PHPCompatibility/workflows/CS/badge.svg?branch=develop)](https://github.com/PHPCompatibility/PHPCompatibility/actions?query=workflow%3ACS)
 [![Test Build Status](https://github.com/PHPCompatibility/PHPCompatibility/workflows/Test/badge.svg?branch=develop)](https://github.com/PHPCompatibility/PHPCompatibility/actions?query=workflow%3ATest)
