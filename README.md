@@ -5,8 +5,8 @@ PHP Compatibility Coding Standard for PHP CodeSniffer
 ![Awesome](https://img.shields.io/badge/awesome%3F-yes!-brightgreen.svg)
 [![License](https://img.shields.io/github/license/PHPCompatibility/PHPCompatibility)](https://github.com/PHPCompatibility/PHPCompatibility/blob/master/LICENSE)
 
-[![CS Build Status](https://github.com/PHPCompatibility/PHPCompatibility/workflows/CS/badge.svg?branch=develop)](https://github.com/PHPCompatibility/PHPCompatibility/actions?query=workflow%3ACS)
-[![Test Build Status](https://github.com/PHPCompatibility/PHPCompatibility/workflows/Test/badge.svg?branch=develop)](https://github.com/PHPCompatibility/PHPCompatibility/actions?query=workflow%3ATest)
+[![CS Build Status](https://github.com/PHPCompatibility/PHPCompatibility/actions/workflows/basics.yml/badge.svg?branch=develop)](https://github.com/PHPCompatibility/PHPCompatibility/actions/workflows/basics.yml)
+[![Test Build Status](https://github.com/PHPCompatibility/PHPCompatibility/actions/workflows/test.yml/badge.svg?branch=develop)](https://github.com/PHPCompatibility/PHPCompatibility/actions/workflows/test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/PHPCompatibility/PHPCompatibility/badge.svg?branch=develop)](https://coveralls.io/github/PHPCompatibility/PHPCompatibility?branch=develop)
 
 [![Minimum PHP Version](https://img.shields.io/packagist/php-v/phpcompatibility/php-compatibility.svg?maxAge=3600)](https://packagist.org/packages/phpcompatibility/php-compatibility)
